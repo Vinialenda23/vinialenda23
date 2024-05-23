@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Vinicius Daniel
+Meu nome é **Vinicius Daniel**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
